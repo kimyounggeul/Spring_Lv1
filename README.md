@@ -22,12 +22,12 @@
 [PostMan 사용법](https://www.notion.so/PostMan-57dd606b5d9c49daa9f5240c487a2f13?pvs=21)
 
 <aside>
-🚩 **Requirement:  과제에 요구되는 사항이에요.**
+🚩 **Requirement:  과제에 요구되는 사항이에요.**<br>
 
 </aside>
 
 <aside>
-⚠️ **아래의 요구사항에 맞는 API 명세서를 작성해 보고 프로젝트를 생성해 직접 구현해 보세요!**
+⚠️ **아래의 요구사항에 맞는 API 명세서를 작성해 보고 프로젝트를 생성해 직접 구현해 보세요!**<br>
 
 </aside>
 
