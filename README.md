@@ -28,25 +28,6 @@
 
 <aside>
 ⚠️ **아래의 요구사항에 맞는 API 명세서를 작성해 보고 프로젝트를 생성해 직접 구현해 보세요!**
-    작성한 API 명세서
-기능	Method	Url	Request	Response
-전체 게시글 목록 조회	get	/api/post	-	id, title, username,
-contents, createAt,
-modifiedAt
-게시글 작성	post	/api/post	-	id, title, username,
-contents, createAt,
-modifiedAt
-선택한 게시글 조회	get	/api/post/{id}	title, username,
-contents,
-password	id, title, username,
-contents, createAt,
-modifiedAt
-선택한 게시글 수정	put	/api/post/{id}	title, username,
-contents,
-password	id, title, username,
-contents, createAt,
-modifiedAt
-선택한 게시글 삭제	delete	/api/post/{id}	password	success : true
 
 </aside>
 
